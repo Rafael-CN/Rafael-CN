@@ -1,6 +1,5 @@
 # 💫 Sobre mim:
-Desenvolvedor de software com 5 anos de experiência em projetos back-end e web, com foco na construção de sistemas ERP. Sou especialista em tecnologias como .NET, C#, Node.js e React, e busco aplicar minhas habilidades para criar soluções escaláveis e de alta performance, contribuindo para o crescimento de produtos inovadores.
-
+Sou um desenvolvedor de software com 5 anos de experiência em projetos back-end e web, onde atuei principalmente em sistemas ERP. Sou especializado em tecnologias como .NET, C#, VB, Node.JS e React, e busco aplicar minhas habilidades para criar soluções robustas e de alta perfomance, contribuindo para o crescimento de produtos inovadores.
 
 ## 🌐 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafael-y/) 
@@ -17,6 +16,7 @@ Desenvolvedor de software com 5 anos de experiência em projetos back-end e web,
 
 
 # 📊 Estatísticas do Github:
-![](https://github-readme-stats.vercel.app/api?username=Rafael-CN&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rafael-CN&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-CN&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Rafael-CN&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-CN&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
