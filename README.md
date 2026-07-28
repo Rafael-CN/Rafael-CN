@@ -1,15 +1,34 @@
-# Sobre mim
-Sou um desenvolvedor de software com 5 anos de experiência em projetos back-end e web, onde atuei principalmente em sistemas ERP. Sou especializado em tecnologias como .NET, C#, VB, Node.JS e React, e busco aplicar minhas habilidades para criar soluções robustas e de alta perfomance, contribuindo para o crescimento de produtos inovadores.
+<h1 align="center">Rafael Nascimento</h1>
 
-## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafael-y/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rcn.ytay@gmail.com) 
+<p align="center">
+  <strong>Desenvolvedor Full Stack</strong> &nbsp;·&nbsp; .NET e React
+</p>
 
-# 💻 Principais tecnologias
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-y/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:rcn.ytay@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
+
+### Sobre
+
+Desenvolvo software em **C# e .NET** há mais de 5 anos. Hoje estou no time do **Umbler Talk**, plataforma multicanal de atendimento e automação, onde entrego features de ponta
+a ponta: do modelo de domínio à interface.
+
+Meu dia a dia envolve **arquitetura DDD**, **APIs REST**, **mensageria assíncrona** e integrações
+com APIs de terceiros, como a **WhatsApp Business API** da Meta. Antes disso, foram 5 anos em
+sistemas **ERP**, com foco em integrações de pagamento — TEF, PIX e boletos bancários.
+
+### Stack
+
+|  |  |
+| :--- | :--- |
+| **Back-end** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) |
+| **Front-end** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white) |
+| **Dados** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+| **Ferramentas** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
