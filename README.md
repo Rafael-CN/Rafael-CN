@@ -1,39 +1,11 @@
-<h1 align="center">Rafael Nascimento</h1>
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/conversa-m-dark.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/conversa-dark.svg"><source media="(max-width: 600px)" srcset="assets/conversa-m.svg"><img src="assets/conversa.svg" width="100%" alt="Oi, quem é você? Rafael. Dev full stack, com C# e .NET no centro. Hoje estou no Umbler Talk, uma plataforma de atendimento multicanal, e levo cada feature do modelo de domínio até a tela. Antes, anos em ERP integrando pagamento: TEF, PIX e boleto. Hoje é DDD, APIs REST, mensageria e a WhatsApp Business API. Fora do trabalho, construo coisas para problemas meus."></picture>
 
-<p align="center">
-  <strong>Desenvolvedor Full Stack</strong> &nbsp;·&nbsp; .NET e React
-</p>
+<a href="https://github.com/Rafael-CN/harmony"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/harmony-m-dark.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/harmony-dark.svg"><source media="(max-width: 600px)" srcset="assets/harmony-m.svg"><img src="assets/harmony.svg" width="100%" alt="harmony: rede social que junta pessoas pelo gosto no Spotify, com match e chat em tempo real. TypeScript e C#."></picture></a>
+<a href="https://github.com/Rafael-CN/nexo"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/nexo-m-dark.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/nexo-dark.svg"><source media="(max-width: 600px)" srcset="assets/nexo-m.svg"><img src="assets/nexo.svg" width="100%" alt="nexo: finanças pessoais no desktop, sem nuvem, com o mês projetado num calendário. TypeScript e Rust."></picture></a>
+<a href="https://github.com/Rafael-CN/habito"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/habito-m-dark.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/habito-dark.svg"><source media="(max-width: 600px)" srcset="assets/habito-m.svg"><img src="assets/habito.svg" width="100%" alt="habito: um hábito só, um ano inteiro num mapa de calor, com widget na tela inicial. Kotlin."></picture></a>
+<a href="https://github.com/Rafael-CN/vibe-artemis"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/vibe-artemis-m-dark.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/vibe-artemis-dark.svg"><source media="(max-width: 600px)" srcset="assets/vibe-artemis-m.svg"><img src="assets/vibe-artemis.svg" width="100%" alt="vibe-artemis: streaming do PC no Android, pensado para quem usa o teclado. Java e C."></picture></a>
+<a href="https://github.com/Rafael-CN/minecraft-bedrock"><picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/minecraft-bedrock-m-dark.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/minecraft-bedrock-dark.svg"><source media="(max-width: 600px)" srcset="assets/minecraft-bedrock-m.svg"><img src="assets/minecraft-bedrock.svg" width="100%" alt="minecraft-bedrock: servidor Bedrock com painel, mapa, backup sem derrubar ninguém e restauração em um comando. Python e Docker."></picture></a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafael-y/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:rcn.ytay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/digitando-m-dark.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/digitando-dark.svg"><source media="(max-width: 600px)" srcset="assets/digitando-m.svg"><img src="assets/digitando.svg" width="100%" alt=""></picture>
 
----
-
-### Sobre
-
-Desenvolvo software em **C# e .NET** há mais de 5 anos. Hoje estou no time do **Umbler Talk**, plataforma multicanal de atendimento e automação, onde entrego features de ponta a ponta: do modelo de domínio à interface.
-
-Meu dia a dia envolve **arquitetura DDD**, **APIs REST**, **mensageria assíncrona** e integrações com APIs de terceiros, como a **WhatsApp Business API** da Meta. Antes disso, foram 5 anos em sistemas **ERP**, com foco em integrações de pagamento — TEF, PIX e boletos bancários.
-
-### Projetos em destaque
-
-- [**olx-deals**](https://github.com/Rafael-CN/olx-deals) — Coleta em lote e triagem automatizada de anúncios da OLX Brasil em TypeScript, SQLite e Playwright.
-- [**harmony**](https://github.com/Rafael-CN/harmony) — Rede social musical mobile em React Native/Expo integrada ao Spotify, com API em C#/.NET, SignalR e MongoDB.
-- [**nexo**](https://github.com/Rafael-CN/nexo) — Aplicativo desktop local-first de gestão financeira pessoal com projeção em calendário (Tauri, Rust, React, TypeScript e SQLite).
-- [**minecraft-bedrock**](https://github.com/Rafael-CN/minecraft-bedrock) — Servidor Minecraft Bedrock em Docker com painel web local, mapa automatizado, backups a quente e restauração em um comando.
-- [**vibe-artemis**](https://github.com/Rafael-CN/vibe-artemis) — Fork do cliente Android Artemis (Moonlight) focado em experiência de teclado e melhorias de qualidade de vida para streaming.
-
-### Stack
-
-|  |  |
-| :--- | :--- |
-| **Back-end** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
-| **Front-end & Apps** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white) |
-| **Dados** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **Ferramentas** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+A sua vez: me chama no [LinkedIn](https://www.linkedin.com/in/rafael-y/) ou em rcn.ytay@gmail.com.
