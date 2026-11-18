@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="126" viewBox="0 0 800 126" role="img" aria-label="Como falo com você? Me chama por aqui.">
+<style>
+text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;}
+@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.b{animation:in .8s cubic-bezier(.22,1,.36,1) both;}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect x="20" y="12" width="184" height="42" rx="12" fill="#f6f8fa" stroke="#d1d9e0"/><text font-size="15" fill="#1f2328"><tspan x="36" y="38">Como falo com você?</tspan></text><rect x="604" y="72" width="176" height="42" rx="12" fill="#0969da"/><text font-size="15" fill="#ffffff"><tspan x="620" y="98">Me chama por aqui:</tspan></text>
+</svg>
